@@ -84,7 +84,7 @@
                         <a href="#">Posts</a>
                     </li>
                     <li class="list-group-item">
-                        <a href="#">settings</a>
+                    <a href="{{route('categories.index')}}">categories</a>
                     </li>
                 </ul>
             </div>
